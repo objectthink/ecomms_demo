@@ -1,0 +1,6 @@
+syntax = "proto3";
+package mercury_shim;
+
+message MercuryRealTimeSignalsPB {
+    repeated float data=1;
+}

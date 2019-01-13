@@ -1,0 +1,19 @@
+{
+  "host": "localhost",
+  "port": 3030,
+  "public": "../public/",
+  "paginate": {
+    "default": 100,
+    "max": 500
+  },
+  //aberdeen1
+  //var nats = NATS.connect('nats://10.52.52.46:4222');
+  //console.log('nats://10.52.52.46:4222');
+
+  //MYDESK
+  //var nats = NATS.connect('nats://10.52.56.225:4222');
+  //console.log('nats://10.52.56.225:4222');
+
+  //"nats_url":"nats://10.52.56.225:4222"
+  "nats_url":"nats://10.52.52.46:4222"
+}
